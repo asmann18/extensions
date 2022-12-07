@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\TaskExtentions\TaskExtentions\bin\Debug\net6.0\TaskExtentions.exe
+C:\Users\Admin\source\repos\TaskExtentions\TaskExtentions\bin\Debug\net6.0\TaskExtentions.deps.json
+C:\Users\Admin\source\repos\TaskExtentions\TaskExtentions\bin\Debug\net6.0\TaskExtentions.runtimeconfig.json
+C:\Users\Admin\source\repos\TaskExtentions\TaskExtentions\bin\Debug\net6.0\TaskExtentions.dll
+C:\Users\Admin\source\repos\TaskExtentions\TaskExtentions\bin\Debug\net6.0\TaskExtentions.pdb
+C:\Users\Admin\source\repos\TaskExtentions\TaskExtentions\obj\Debug\net6.0\TaskExtentions.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TaskExtentions\TaskExtentions\obj\Debug\net6.0\TaskExtentions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TaskExtentions\TaskExtentions\obj\Debug\net6.0\TaskExtentions.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TaskExtentions\TaskExtentions\obj\Debug\net6.0\TaskExtentions.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TaskExtentions\TaskExtentions\obj\Debug\net6.0\TaskExtentions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TaskExtentions\TaskExtentions\obj\Debug\net6.0\TaskExtentions.dll
+C:\Users\Admin\source\repos\TaskExtentions\TaskExtentions\obj\Debug\net6.0\refint\TaskExtentions.dll
+C:\Users\Admin\source\repos\TaskExtentions\TaskExtentions\obj\Debug\net6.0\TaskExtentions.pdb
+C:\Users\Admin\source\repos\TaskExtentions\TaskExtentions\obj\Debug\net6.0\TaskExtentions.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TaskExtentions\TaskExtentions\obj\Debug\net6.0\ref\TaskExtentions.dll
